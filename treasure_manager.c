@@ -29,6 +29,7 @@
 #include <dirent.h>
 #include <string.h>
 #include <stdlib.h>
+#include <stdio.h>
 
 /* Minimal record with lat/lon stored as strings. */
 typedef struct {
